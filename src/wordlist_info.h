@@ -1,0 +1,4 @@
+#pragma once
+
+#define WORDLIST_ENTRY_COUNT 1000000u
+#define WORDLIST_BYTE_COUNT 8755171u
